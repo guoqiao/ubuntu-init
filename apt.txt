@@ -1,0 +1,14 @@
+libmysqlclient-dev
+libldap2-dev
+libsasl2-dev
+libssl-dev
+lighttpd
+
+mysql-server
+mysql-common
+mysql-client
+
+python
+python-doc
+python-dev
+python-setuptools
