@@ -5,6 +5,7 @@ libmysqlclient-dev
 libldap2-dev
 libsasl2-dev
 libssl-dev
+libnss3-dev
 lighttpd
 mysql-server
 mysql-common

@@ -1,8 +1,4 @@
 Ubuntu/Mint的上手配置
-由于喜新厌旧的本性,上周末我终于忍不住给笔记本装上了刚出几天的Linux Mint 14,用了2年多的Ubuntu惨遭格式化.
-放弃Ubuntu的主要原因是觉得它太丑了.以前我没的选,而现在有了Mint.
-实不相瞒, 我早就被它小清新的靓丽外观吸引，倾心已久。而Ubuntu万年不变的紫色界面确实太倒人胃口。
-听着怪怪的...
 fakedomain  192.168.15.220  spig-utils
 
 change source
