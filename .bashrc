@@ -15,3 +15,7 @@ alias x='exit'
 alias q='exit'
 alias rmd='rm -rf'
 alias py='python'
+alias ls='ls --color=auto'
+alias ll='ls --color=auto -al'
+alias grep='grep --colour=auto'
+
