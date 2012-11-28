@@ -13,3 +13,4 @@ mysql-client
 python-dev
 supervisor
 vim-gnome
+graphviz-dev
