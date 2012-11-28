@@ -1,0 +1,1 @@
+plink -ssh -C -D 1080 -pw 2d892600 spig@haoluobo.com &
