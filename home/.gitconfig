@@ -2,6 +2,11 @@
 	name = guoqiao
 	email = guoqiao@gmail.com
 
+[color]
+    diff   = auto
+    status = auto
+    branch = auto
+
 [alias]
     co = checkout
     ci = commit -a
