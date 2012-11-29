@@ -1,5 +1,8 @@
 setuptools
 pip
+pyflakes
+virtualenv
+mercurial
 
 django
 gunicorn
@@ -7,10 +10,6 @@ south
 python-ldap
 django-auth-ldap
 git+https://github.com/maraujop/django-crispy-forms.git
-
-virtualenv
-mercurial
-
 #celery
 #django-celery
 #django-kombu
