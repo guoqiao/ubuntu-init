@@ -1,3 +1,10 @@
 [user]
 	name = guoqiao
 	email = guoqiao@gmail.com
+
+[alias]
+    co = checkout
+    ci = commit -a
+    cm = commit -m
+    st = status
+    br = branch
