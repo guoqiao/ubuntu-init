@@ -1,5 +1,7 @@
 #! /bin/bash
-ssh-copy-id spig@192.168.15.220
-ssh-copy-id user@192.168.15.221
-ssh-copy-id user@192.168.15.223
-ssh-copy-id spig@192.168.15.224
+ssh-copy-id spig@kb.iottech.cc
+ssh-copy-id user@ci.iottech.cc
+ssh-copy-id user@mirror.iottech.cc
+ssh-copy-id spig@hg.iottech.cc
+ssh-copy-id spig@svn.iottech.cc
+ssh-copy-id spig@dm.iottech.cc
