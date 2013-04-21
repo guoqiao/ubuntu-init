@@ -4,7 +4,7 @@ pyflakes
 virtualenv
 mercurial
 
-django
+django==1.4.5
 gunicorn
 south
 python-ldap

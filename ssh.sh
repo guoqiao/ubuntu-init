@@ -1,4 +1,5 @@
 #! /bin/bash
+ssh-copy-id root@readfree.me
 ssh-copy-id spig@kb.iottech.cc
 ssh-copy-id user@ci.iottech.cc
 ssh-copy-id user@mirror.iottech.cc

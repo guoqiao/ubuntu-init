@@ -2,7 +2,7 @@
 username = guoqiao <guoqiao@insigma.com.cn>
 
 [auth]
-m.prefix = http://iot-hg.insigma.com.cn/
+m.prefix = http://hg.iottech.cc
 m.username = guoqiao
 m.password = ******
 
